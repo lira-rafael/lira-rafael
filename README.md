@@ -9,7 +9,7 @@
 )](https://www.linkedin.com/in/rafael-lirap/)
 
 ![Lira-Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=lira-rafael&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lira-rafael&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que uso no meu dia
 
