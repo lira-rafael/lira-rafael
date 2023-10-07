@@ -26,5 +26,3 @@ Um breve relato de minhas experiências até aqui: Confesso que está sendo apai
 </div>
 <br>
 Iniciando a jornada neste fascinante mundo dev!
-
-![Snake animation](https://github.com/lira-rafael/lira-rafael/blob/output/github-contribution-grid-snake.svg)
