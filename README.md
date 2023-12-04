@@ -5,8 +5,6 @@ Um profissional de Educação Físca que decidiu iniciar uma nova jornada...
 
 Em transição de carreira, cursando graduação em Analise e Desenvolvimento de Sistemas, participando de vários cursos básicos de programão e bootcamps em instituições de ensino online. No momento o minha jornada está focada na área do Front-end.
 
-Um breve relato de minhas experiências até aqui: Confesso que está sendo apaixonante desbravar este vasto mundo da programação!
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/lira-rafael)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
